@@ -37,7 +37,7 @@
             font-family: 'Courier New', Courier, monospace;
             font-size: 10vh;
             font-weight: bold;
-            animation: moveRightToLeft 10s linear infinite; 
+            
         }
 
         @keyframes moveRightToLeft {
